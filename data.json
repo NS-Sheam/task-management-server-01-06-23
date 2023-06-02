@@ -1,0 +1,53 @@
+[
+    {
+      "title": "Complete Project Proposal",
+      "description": "Write a detailed project proposal for the upcoming client meeting.",
+      "status": "Pending"
+    },
+    {
+      "title": "Design Wireframes",
+      "description": "Create wireframes for the user interface of the new mobile application.",
+      "status": "Pending"
+    },
+    {
+      "title": "Review Code Changes",
+      "description": "Review and provide feedback on the recent code changes made by the development team.",
+      "status": "Pending"
+    },
+    {
+      "title": "Test Website Compatibility",
+      "description": "Test the website on different browsers and devices for compatibility issues.",
+      "status": "Completed"
+    },
+    {
+      "title": "Update Marketing Campaign",
+      "description": "Make necessary updates to the marketing campaign based on the latest market research.",
+      "status": "Pending"
+    },
+    {
+      "title": "Prepare Monthly Report",
+      "description": "Gather data and prepare a comprehensive report summarizing the monthly progress.",
+      "status": "Pending"
+    },
+    {
+      "title": "Implement New Feature",
+      "description": "Develop and integrate a new feature requested by the client into the existing system.",
+      "status": "Completed"
+    },
+    {
+      "title": "Conduct Team Meeting",
+      "description": "Organize a team meeting to discuss the project status and assign upcoming tasks.",
+      "status": "Pending"
+    },
+    {
+      "title": "Optimize Database Performance",
+      "description": "Identify and implement measures to improve the performance of the database queries.",
+      "status": "Completed"
+    },
+    {
+      "title": "Resolve Customer Support Tickets",
+      "description": "Address and resolve customer support tickets within the specified SLA.",
+      "status": "Pending"
+    }
+  ]
+  
